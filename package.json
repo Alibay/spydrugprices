@@ -1,0 +1,35 @@
+{
+  "name": "spydrugprices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alibay/spydrugprices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alibay/spydrugprices/issues"
+  },
+  "homepage": "https://github.com/Alibay/spydrugprices#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "config": "^3.2.3",
+    "knex": "^0.19.5",
+    "pino": "^5.13.5",
+    "pino-pretty": "^3.2.2"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.13",
+    "@types/config": "0.0.34",
+    "@types/knex": "^0.16.1",
+    "@types/pino": "^5.8.10",
+    "tslint": "^5.20.0",
+    "typescript": "^3.6.3"
+  }
+}
