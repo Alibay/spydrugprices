@@ -33,7 +33,7 @@
     "phantomjs": "^2.1.7",
     "pino": "^5.13.5",
     "pino-pretty": "^3.2.2",
-    "xmldom": "^0.1.27",
+    "xmldom": "^0.5.0",
     "xpath": "0.0.27"
   },
   "devDependencies": {
